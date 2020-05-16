@@ -1,16 +1,8 @@
-# pairs
+# Pairs
 
-A new Flutter project.
+Pairs is a game built in flutter where once the player is allowed to see the images hidden behind the covers. And once it's done, the player is asked to uncover two plates which have same images sequally. 
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+<img src="screenshots/screenshot_1.png"> <img src="screenshots/screenshot_1.png">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

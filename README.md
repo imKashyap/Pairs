@@ -4,5 +4,6 @@ Pairs is a game built in flutter where once the player is allowed to see the ima
 
 ## Screenshots
 
-<img src="screenshots/screenshot_1.png">  <img src="screenshots/screenshot_2.png">
+<img src="screenshots/Screenshot_1.png" width=400 alt="Screenshot 1 of the app">  
+<img src="screenshots/Screenshot_2.png"width=400 alt="Screenshot 2 of the app">
 
